@@ -1,0 +1,98 @@
+- isi pokok website :
+1.header/navbar
+2.hero section
+3.category 
+4.Tentang Kami
+5.Jasa Kami
+6.Proses Pengerjaan
+7.Hubungi Kami
+
+- navbar : 
+1. About
+2. Service
+4. Progress
+5. Contact
+
+- section hero :
+1. h1 : Solusi Desain Terbaik untuk Bisnis Anda
+2. p : Kami menawarkan berbagai layanan desain, mulai dari desain logo,
+desain brosur, desain CV, desain website dan 
+3. button : order & project
+
+- section category :
+1.UI/UX
+2.LOGO
+3.BROSUR
+4.CV
+
+- section about :
+
+Jika Anda sedang mencari jasa desain yang berkualitas, maka Anda datang 
+ke tempat yang tepat. Kami di Ankasa Studio menawarkan berbagai layanan desain 
+yang dapat membantu memenuhi kebutuhan Anda. Kami tidak hanya 
+menawarkan jasa desain, tetapi juga menjual desain hasil karya kami sendiri.
+
+Ankasa Studio adalah studio desain yang berfokus pada memberikan 
+solusi desain yang inovatif dan kreatif untuk kebutuhan bisnis Anda. 
+Kami menyediakan layanan desain untuk berbagai jenis bisnis, 
+mulai dari desain logo, desain brosur, desain kartu nama, hingga desain 
+website dan aplikasi. Kami juga menawarkan layanan penjualan desain seperti 
+template website, mockup produk, dan berbagai jenis karya desain lainnya.
+
+Kualitas adalah hal yang paling kami utamakan di Ankasa Studio. 
+Semua karya desain yang kami buat selalu didesain dengan cermat dan detail, 
+sehingga menghasilkan karya yang berkualitas tinggi. 
+Kami juga selalu berusaha untuk memahami kebutuhan klien kami agar dapat 
+memberikan solusi desain yang tepat dan sesuai dengan harapan.
+
+- section service:
+
+1.Design UI/UX Website:
+
+Ankasa Studio menyediakan jasa desain UI/UX website yang dapat 
+membantu Anda mengoptimalkan tampilan dan pengalaman pengguna dari website Anda. 
+Kami memiliki pengalaman dalam mendesain berbagai jenis website, 
+mulai dari website bisnis, e-commerce, hingga website personal.
+
+2.Design Logo
+
+Kami juga menyediakan jasa desain logo website 
+yang dapat membantu Anda meningkatkan citra dan merek bisnis Anda. 
+Sebuah logo yang baik dan profesional dapat membantu memperkuat 
+citra merek bisnis Anda dan membuat bisnis Anda lebih mudah 
+dikenal dan diingat oleh pelanggan.
+
+3.Design Brosur
+
+Butuh desain brosur untuk promosi bisnis anda? Kami siap membantu
+meningkatkan promosi bisnis anda dengan mendesain sebuah brosur yang
+menarik dan berkualitas. Oleh karena itu, kami selalu berusaha untuk 
+memahami visi dan tujuan bisnis klien kami dalam proses pembuatan desain brosur..
+
+4.Design CV
+
+CV yang baik dan profesional dapat meningkatkan peluang 
+karir Anda dalam dunia kerja. Desain CV yang menarik dan 
+informatif dapat membantu Anda menonjolkan diri dari ribuan 
+pelamar kerja lainnya. Oleh karena itu, jika Anda ingin 
+memaksimalkan peluang karir Anda, Anda membutuhkan 
+desain CV yang profesional dan menarik.
+
+- section progress :
+
+1.Order
+2.Data
+3.Pengerjaan
+4.Penyelesaian
+5.Kesepakatan
+6.Tombol Detail
+
+-section contact:
+1.form detail kontak dan gmaps
+2.untuk fungsi kontak masukkan pesan ke dalam microsoft excel
+
+- section footer:
+1.judul website
+2.link header
+3.alamat lengkap perusahaan
+4.copyright
